@@ -6,6 +6,6 @@
   },
   "scripts": {
     "release": "np",
-    "test": "exit-0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
