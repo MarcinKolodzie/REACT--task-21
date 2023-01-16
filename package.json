@@ -5,6 +5,7 @@
     "np": "^7.6.3"
   },
   "scripts": {
-    "release": "np"
+    "release": "np",
+    "test": "exit-0"
   }
 }
