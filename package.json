@@ -1,7 +1,10 @@
 {
   "name": "cra-template-MK",
   "version": "1.0.0",
-  "dependencies": {},
-  "devDependencies": {},
-  "scripts": {}
+  "devDependencies": {
+    "np": "^7.6.3"
+  },
+  "scripts": {
+    "release": "np"
+  }
 }
