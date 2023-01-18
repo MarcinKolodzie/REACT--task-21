@@ -5,7 +5,9 @@
         "plugin:react/recommended"
     ],
     "rules": {
-        "operator-linebreak": ["off"],
+        "operator-linebreak": [
+            "off"
+        ],
         "react/jsx-curly-spacing": [
             "warn",
             "never",
@@ -40,6 +42,10 @@
         "react/jsx-first-prop-new-line": [
             "warn",
             "multiline"
+        ],
+        "space-before-function-paren": [
+            "error",
+            "always"
         ]
     }
 }
