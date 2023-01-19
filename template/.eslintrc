@@ -5,6 +5,9 @@
         "plugin:react/recommended"
     ],
     "rules": {
+        "n/handle-callback-err": [
+            "off"
+        ],
         "operator-linebreak": [
             "off"
         ],
